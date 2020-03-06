@@ -55,16 +55,16 @@ let questions = [
         choiceC : "Casamigos",
         correct : "A"
     },{
-        question : "How many spirits are in a Long Island Iced Tea?",
-        choiceA : "4",
-        choiceB : "5",
-        choiceC : "3",
+        question : "What is a Cape Codder?",
+        choiceA : "Vodka and Grapefruit",
+        choiceB : "Vodka and Cranberry",
+        choiceC : "Vodka and OJ",
         correct : "B"
     },{
-        question : "Where did Vodka originate?",
-        choiceA : "Switzerland",
-        choiceB : "France",
-        choiceC : "Finland",
+        question: "Where did Rum originate?",
+        choiceA : "Jamaica",
+        choiceB : "Trinidad",
+        choiceC : "Barbados",
         correct : "C"
     }
 ];
